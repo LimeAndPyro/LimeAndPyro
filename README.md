@@ -2,9 +2,9 @@
 
 ![](https://dcbadge.vercel.app/api/shield/971911525684105216)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LimeAndPyro&label=Profile%20views&color=a143df&style=flat" alt="wtfblaze" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LimeAndPyro&label=Profile%20views&color=a143df&style=flat" alt="wtfblaze" /> </p>[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimeAndPyro&theme=dark&layout=compact)
 
