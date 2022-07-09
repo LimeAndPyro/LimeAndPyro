@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lime AKA Pyro AKA Creed</h1>
 
+[![Generic badge](https://img.shields.io/badge/<BITCHES?>-<NONE>-<COLOR>.svg)](https://shields.io/)
+
 ![](https://dcbadge.vercel.app/api/shield/971911525684105216)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LimeAndPyro&label=Profile%20views&color=a143df&style=flat" alt="wtfblaze" /> </p>
