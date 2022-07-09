@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://dcbadge.vercel.app/api/shield/971911525684105216)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimeAndPyro&theme=dark&layout=compact)
 
 ![monkesat](https://github-readme-stats.vercel.app/api?username=LimeAndPyro&show_icons=true&theme=dark&locale=en)
