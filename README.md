@@ -16,19 +16,13 @@
  
 ## Projects I Either Worked On Or Own.
 
-~Area51
-
-~Discreet{Own}
-
-~Concept{Own}
-
-~RoseMod{Own}
-
-~Myst
-
-~PyroClient{Own}
-
-~1604{Own}
+- Area51
+- Discreet{Own}
+- Concept{Own}
+- RoseMod{Own}
+- Myst
+- PyroClient{Own}
+- 1604{Own}
 
 ## Cool Cat
 
