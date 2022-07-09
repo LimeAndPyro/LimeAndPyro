@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimeAndPyro&theme=dark&layout=compact)
 
+![monkesat](https://github-readme-stats.vercel.app/api?username=wtfblaze&show_icons=true&theme=dark&locale=en)
+
 ## Badges
 
   [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
@@ -26,7 +28,7 @@
 
 ## Cool Cat
 
-[coolcat](https://c.tenor.com/y4Ie8h0H-TwAAAAC/cat-typing.gif)
+![coolcat](https://c.tenor.com/y4Ie8h0H-TwAAAAC/cat-typing.gif)
 
 
 
