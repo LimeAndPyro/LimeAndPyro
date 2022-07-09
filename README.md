@@ -2,7 +2,7 @@
 
 ![](https://dcbadge.vercel.app/api/shield/971911525684105216)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LimeAndPyro&label=Profile%20views&color=a143df&style=flat" alt="wtfblaze" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LimeAndPyro&label=Profile%20views&color=a143df&style=flat" alt="wtfblaze" /> </p>[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimeAndPyro&theme=dark&layout=compact)
 
