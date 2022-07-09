@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-<!--
-**LimeAndPyro/LimeAndPyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on => Discreet
-- 🌱 I’m currently learning => C#
-- 🤔 I’m looking for help with Learning => Networking And Other Stuff.
-- 📫 How to reach me: Lime/Pyro/Creed#1212
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimeAndPyro&theme=dark&layout=compact)
 
 ## Badges
