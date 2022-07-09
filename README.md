@@ -2,6 +2,8 @@
 
 ![](https://dcbadge.vercel.app/api/shield/971911525684105216)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LimeAndPyro&label=Profile%20views&color=a143df&style=flat" alt="wtfblaze" /> </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimeAndPyro&theme=dark&layout=compact)
 
 ![monkesat](https://github-readme-stats.vercel.app/api?username=LimeAndPyro&show_icons=true&theme=dark&locale=en)
