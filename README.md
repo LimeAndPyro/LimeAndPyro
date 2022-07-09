@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Lime AKA Pyro AKA Creed</h1>
 
 ![](https://dcbadge.vercel.app/api/shield/971911525684105216)
 
