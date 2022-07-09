@@ -4,7 +4,7 @@
 
 ![](https://dcbadge.vercel.app/api/shield/971911525684105216)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LimeAndPyro&label=Profile%20views&color=a143df&style=flat" alt="wtfblaze" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LimeAndPyro&label=Profile%20views&color=a143df&style=flat" alt="LimeAndPyro" /> </p>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
