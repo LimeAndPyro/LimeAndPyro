@@ -5,12 +5,44 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on => Discreet
+- 🌱 I’m currently learning => C#
+- 🤔 I’m looking for help with Learning => Networking And Other Stuff.
+- 📫 How to reach me: Lime/Pyro/Creed#1212
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimeAndPyro&theme=dark&layout=compact)
+
+## Badges
+
+  [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+## Ive used All Of These Languages
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="50px" />
+ 
+## Projects I Either Worked On Or Own.
+
+~Area51
+
+~Discreet{Own}
+
+~Concept{Own}
+
+~RoseMod{Own}
+
+~Myst
+
+~PyroClient{Own}
+
+~1604{Own}
+
+## Cool Cat
+
+[coolcat](https://c.tenor.com/y4Ie8h0H-TwAAAAC/cat-typing.gif)
+
+
+
