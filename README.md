@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lime AKA Pyro AKA Creed</h1>
 
-[![Generic badge](https://img.shields.io/badge/<BITCHES>-<NONE>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/BITCHES-NONE-<COLOR>.svg)](https://shields.io/)
 
 ![](https://dcbadge.vercel.app/api/shield/971911525684105216)
 
